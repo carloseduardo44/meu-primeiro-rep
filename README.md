@@ -13,3 +13,6 @@
 ## git commit -m "ADICIONEI MEU NOME"
 ##  git push -u origin main
 ## VINCULE SUA CONTA
+
+## pull => sincroza as alterações que estão no git hub e "traz" para máquina local
+ 
